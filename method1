@@ -1,0 +1,5 @@
+Changing MAC address (for (kali)Linux))
+>iwconfig  //To show wireless cards eg. wlan0
+>macchanger--help
+macchanger--random wlan0 //For a random mac address
+>ifconfig wlan0 up
